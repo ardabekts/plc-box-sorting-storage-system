@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="images/factory-io.png" width="50%" />
-  <img src="images/hmi.png" width="50%" />
+  <img src="images/factory-io.png" width="40%" />
+  <img src="images/hmi.png" width="40%" />
 </p>
 
 
