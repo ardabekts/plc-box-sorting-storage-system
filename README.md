@@ -1,4 +1,12 @@
-# PLC Box Sorting and Storage System
+<p align="center">
+  <img src="images/factory-io.png" width="50%" />
+  <img src="images/hmi.png" width="50%" />
+</p>
+
+
+<h1 align="center">PLC Box Sorting and Storage System</h1>
+<p align="center">PLC-based sorting and to storage, with HMI integration.</p>
+
 
 ## 📌 Project Overview
 This project is a **PLC-based box sorting and storage system**.  
